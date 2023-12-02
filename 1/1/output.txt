@@ -1,0 +1,2 @@
+❯ ./solution.py
+Count: 1000, Sum: 55971
